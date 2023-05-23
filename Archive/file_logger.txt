@@ -1,0 +1,10 @@
+File Operation Logger write: budget_proposal.txt
+write: email_template_scope.txt
+write: email_template_forecasting.txt
+write: email_template_planning.txt
+write: life.txt
+write: meal_delivery_costs.txt
+write: college_scholarships_for_women.txt
+write: essay_based_scholarships.txt
+write: AAUW_International_Fellowships.txt
+write: college_scholarships.txt
